@@ -1,4 +1,4 @@
-This HTML project, **FineFoodie**, is designed as a promotional webpage for a nutrition and diet consultancy service. It aims to showcase subscription options, diet types, and key team members, providing users with an inviting and accessible layout to explore and subscribe to different plans.
+This HTML project, **FineFoodie**, is designed as a promotional webpage for a nutrition and diet consultancy service. It aims to showcase subscription options, diet types, and key team members, providing users with an inviting and accessible layout to explore and subscribe to different plans. I was just training my Html and Css/Scss knowledge, so i made it without finctionality.
 
 ### Key Features and Technologies Used:
 
